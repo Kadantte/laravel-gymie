@@ -8,12 +8,6 @@
 <a href="https://github.com/lubusin/laravel-gymie/blob/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs"></a>
 </p>
 
-<center>
-<a href="https://lubus.in/">
-<img src="https://user-images.githubusercontent.com/1039236/40877801-3fa8ccf6-66a4-11e8-8f42-19ed4e883ce9.png" />
-</a>
-</center>
-
 # Gymie
 
 Laravel based web application for gym & club management. Currently being used by many fitness centers. For more information, visit - https://www.gymie.in
@@ -103,6 +97,10 @@ If you discover a security vulnerability in Laravel, please email info@lubus.in.
 
 ##  About Us
 [LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
+
+<a href="https://cal.com/lubus">
+<img src="https://raw.githubusercontent.com/lubusIN/.github/refs/heads/main/profile/banner.png" />
+</a>
 
 ## License
 
